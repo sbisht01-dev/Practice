@@ -22,6 +22,7 @@ function selection() {
   }
   return flag;
 }
+/* more loops can be used for the automation
 
 /*generating random values for system*/
 function gen() {
